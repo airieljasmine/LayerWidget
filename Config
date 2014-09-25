@@ -1,0 +1,10 @@
+
+#
+# Module configuration file for
+# App2
+# (com.jas.jas.app2)
+#
+
+displayname: App2
+depends: com.eqela.libwidget
+depends: com.eqela.libcommonwidget
